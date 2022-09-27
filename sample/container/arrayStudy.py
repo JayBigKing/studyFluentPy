@@ -36,8 +36,8 @@ def memoryviewTest():
 
 
 def main():
-    # test1()
-    memoryviewTest()
+    test1()
+#    memoryviewTest()
 
 if __name__ == '__main__':
     main()
