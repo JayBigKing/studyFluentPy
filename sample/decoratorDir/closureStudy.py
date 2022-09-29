@@ -19,6 +19,7 @@ def test1():
     print(avg.__closure__)
     print(avg.__closure__[0].cell_contents)
 
+
 def main():
     test1()
 
